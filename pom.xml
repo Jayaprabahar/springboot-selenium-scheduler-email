@@ -7,7 +7,7 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.3.1.RELEASE</version>
-		<relativePath /> <!-- lookup parent from repository -->
+		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.jayaprabahar.springboot.selenium.email</groupId>
 	<artifactId>springboot-selenium-scheduler-email</artifactId>
@@ -43,7 +43,7 @@
 		<dependency>
 			<groupId>io.github.bonigarcia</groupId>
 			<artifactId>webdrivermanager</artifactId>
-			<version>4.0.0</version>
+			<version>5.1.0</version>
 		</dependency>
 
 		<dependency>
